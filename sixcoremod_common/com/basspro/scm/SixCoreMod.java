@@ -3,7 +3,6 @@ package com.basspro.scm;
 import java.io.File;
 
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraftforge.common.DimensionManager;
 
 import com.basspro.scm.block.SixCoreModBlocks;
 import com.basspro.scm.configuration.ConfigurationHandler;
@@ -18,7 +17,6 @@ import com.basspro.scm.item.SixCoreModItems;
 import com.basspro.scm.lib.Reference;
 import com.basspro.scm.recipe.RecipesSixCoreMod;
 import com.basspro.scm.world.gen.SixCoreModWorldGen;
-import com.basspro.scm.worldpandora.WorldProviderPandora;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;
